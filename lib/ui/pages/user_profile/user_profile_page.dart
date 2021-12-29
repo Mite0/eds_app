@@ -62,7 +62,7 @@ class _UserProfileForm extends StatelessWidget {
                         child: Text(state.user.website),
                       ),
                       const Center(
-                        child: Text('Working'),
+                        child: Text('Место работы'),
                       ),
                       Center(
                         child: Text(state.user.workName),
